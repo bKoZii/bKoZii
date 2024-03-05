@@ -7,16 +7,12 @@
 * ปวช. - สาขาเทคโนโลยีสารสนเทศ - วิทยาลัยอาชีวศึกษานครศรีธรรมราช
 * ปวส. - สาขาโมบายแอปพลิเคชั่นทางธุรกิจ - วิทยาลัยอาชีวศึกษานครศรีธรรมราช
 
-## Currently Active Project/Repo
+## Active Project/Repo
 
-* [cloud-konkamon-bootstrap](https://github.com/bKoZii/cloud-konkamon-bootstrap) - ชิ้นงานวิชา การพัฒนาคลาวด์แอปพลิเคชั่น
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-* [cloud-konkamon-bulma](https://github.com/bKoZii/cloud-konkamon-bulma) - ชิ้นงานวิชา การพัฒนาคลาวด์แอปพลิเคชั่น
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-* [cloud-konkamon-ionic-vue](https://github.com/bKoZii/cloud-konkamon-ionic-vue)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-* [cloud-konkamon-ionic](https://github.com/bKoZii/cloud-konkamon-ionic-vue)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+* [cloud-konkamon-bootstrap](https://github.com/bKoZii/cloud-konkamon-bootstrap) - ชิ้นงานวิชา การพัฒนาคลาวด์แอปพลิเคชั่น [ Angular, Bootstrap, Firebase ]
+* [cloud-konkamon-bulma](https://github.com/bKoZii/cloud-konkamon-bulma) - ชิ้นงานวิชา การพัฒนาคลาวด์แอปพลิเคชั่น [ Angular, Bulma, Firebase ]
+* [cloud-konkamon-ionic-vue](https://github.com/bKoZii/cloud-konkamon-ionic-vue) [ Ionic, Vue ]
+* [cloud-konkamon-ionic](https://github.com/bKoZii/cloud-konkamon-ionic-vue) - [ Ionic, Angular ]
 
 ## ทักษะ
 
