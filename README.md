@@ -4,15 +4,15 @@
 
 ## ประวัติการศึกษา
 
-* ปวช. - สาขาเทคโนโลยีสารสนเทศ - วิทยาลัยอาชีวศึกษานครศรีธรรมราช
-* ปวส. - สาขาโมบายแอปพลิเคชั่นทางธุรกิจ - วิทยาลัยอาชีวศึกษานครศรีธรรมราช
+- ปวช. - สาขาเทคโนโลยีสารสนเทศ - วิทยาลัยอาชีวศึกษานครศรีธรรมราช
+- ปวส. - สาขาโมบายแอปพลิเคชั่นทางธุรกิจ - วิทยาลัยอาชีวศึกษานครศรีธรรมราช
 
 ## Active Project/Repo
 
-* [cloud-konkamon-bootstrap](https://github.com/bKoZii/cloud-konkamon-bootstrap) - ชิ้นงานวิชา การพัฒนาคลาวด์แอปพลิเคชั่น [ Angular, Bootstrap, Firebase ]
-* [cloud-konkamon-bulma](https://github.com/bKoZii/cloud-konkamon-bulma) - ชิ้นงานวิชา การพัฒนาคลาวด์แอปพลิเคชั่น [ Angular, Bulma, Firebase ]
-* [cloud-konkamon-ionic-vue](https://github.com/bKoZii/cloud-konkamon-ionic-vue) [ Ionic, Vue ]
-* [cloud-konkamon-ionic](https://github.com/bKoZii/cloud-konkamon-ionic-vue) - [ Ionic, Angular ]
+- [cloud-konkamon-bootstrap](https://github.com/bKoZii/cloud-konkamon-bootstrap) - ชิ้นงานวิชา การพัฒนาคลาวด์แอปพลิเคชัน [ Angular, Bootstrap, Firebase ]
+- [cloud-konkamon-bulma](https://github.com/bKoZii/cloud-konkamon-bulma) - ชิ้นงานวิชา การพัฒนาคลาวด์แอปพลิเคชัน [ Angular, Bulma, Firebase ]
+- [cloud-konkamon-ionic](https://github.com/bKoZii/cloud-konkamon-ionic) - ชิ้นงาน Ionic วิชา การพัฒนาคลาวด์แอปพลิเคชัน [ Ionic, Angular ]
+- [cloud-konkamon-ionic-vue](https://github.com/bKoZii/cloud-konkamon-ionic-vue) [ Ionic, Vue ]
 
 ## ทักษะ
 
