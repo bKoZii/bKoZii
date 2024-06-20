@@ -9,9 +9,7 @@
 
 ## Active Project/Repo
 
-- [cloud-konkamon-bootstrap](https://github.com/bKoZii/cloud-konkamon-bootstrap) - ชิ้นงานวิชา การพัฒนาคลาวด์แอปพลิเคชัน [ Angular, Bootstrap, Firebase ]
-- [cloud-konkamon-ionic](https://github.com/bKoZii/cloud-konkamon-ionic) - ชิ้นงาน Ionic วิชา การพัฒนาคลาวด์แอปพลิเคชัน [ Ionic, Angular ]
-- [cloud-konkamon-ionic-vue](https://github.com/bKoZii/cloud-konkamon-ionic-vue) - ชิ้นงานเดียวกับ Ionic + Angular เขียนใหม่โดยใช้ Vue.js 3 [ Ionic, Vue ]
+- [konkamon-portfolio-nuxt](https://github.com/bKoZii/konkamon-portfolio-nuxt) - เว็บ Portfolio ประจำตัว [ Vue, Nuxt, Tailwind ]
 
 ### Language
 
