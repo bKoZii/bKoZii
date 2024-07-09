@@ -9,7 +9,7 @@
 
 ## Active Project/Repo
 
-- [konkamon-portfolio-nuxt](https://github.com/bKoZii/konkamon-portfolio-nuxt) - เว็บ Portfolio ประจำตัว [ Vue, Nuxt, Tailwind ]
+- [konkamon-portfolio-nuxt](https://github.com/bKoZii/konkamon-portfolio-nuxt) - เว็บ Portfolio ประจำตัว [ Vue, Nuxt, Tailwind, Sanity CMS ]
 
 ### Language
 
