@@ -9,7 +9,9 @@
 
 ## Active Project/Repo
 
-- [konkamon-portfolio-nuxt](https://github.com/bKoZii/konkamon-portfolio-nuxt) - เว็บ Portfolio ประจำตัว [ Vue, Nuxt, Tailwind, Sanity CMS ]
+- [nuxt-portfolio-blog](https://github.com/bKoZii/konkamon-portfolio-nuxt) - เว็บ Portfolio ประจำตัว [ Vue, Nuxt, Tailwind, Sanity CMS ]
+- [devaree_project](https://github.com/MrLuciana/devaree_project) - เว็บชิ้นงานวิจัย ป.ตรี มทร.ศรีวิชัย (Backend)
+- [devaree-frontend](https://github.com/bKoZii/devaree-frontend) - เว็บชิ้นงานวิจัย ป.ตรี มทร.ศรีวิชัย (Frontend)
 
 ## Skills
 
