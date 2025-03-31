@@ -11,6 +11,7 @@
 
 - [nuxt-portfolio-blog](https://github.com/bKoZii/konkamon-portfolio-nuxt) - เว็บ Portfolio ประจำตัว [ Vue, Nuxt, Tailwind, Sanity CMS ]
 - [devaree_project](https://github.com/MrLuciana/devaree_project) - เว็บชิ้นงานวิจัย ป.ตรี มทร.ศรีวิชัย (Full-stack?, PHP, Javascript + jQuery + AJAX, Bootstrap)
+- [spa-massage-reserve](https://github.com/bKoZii/spa-massage-reserve) - เว็บจองบริการนวด & สปา (ชิ้นงานวิจัยฉบับทำใหม่โดยใช้ Vue 3, Nuxt, Encore + TypeScript )
 
 ## Skills
 
